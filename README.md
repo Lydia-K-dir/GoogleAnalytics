@@ -57,13 +57,3 @@ This dashboard summarizes the following Google Analytics metrics:
 * There was a significant drop in traffic and bounces in **September**.
 
 ---
-
-## 💡 How to Use This Dashboard
-
-1. Use the **Month Filter Buttons** to view metrics by selected periods.
-2. Hover over charts to view monthly performance trends.
-3. Compare country and source performance to evaluate audience origin and behavior
-
----
-
-Let me know if you want this in `.md` file format or tailored for a portfolio website.
