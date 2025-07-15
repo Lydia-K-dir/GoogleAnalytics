@@ -35,7 +35,7 @@ This dashboard summarizes the following Google Analytics metrics:
 
 ## 🛠️ Tools and Technologies Used
 
-* **Power BI**: For data modeling, visualization, and dashboard creation
+* **Excel**: For data visualization, and dashboard creation
 * **Google Analytics**: Source of the raw traffic and user engagement data
 * **DAX / Power Query**: Used for calculations and data transformation
 
